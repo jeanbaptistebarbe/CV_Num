@@ -1,0 +1,23 @@
+.black{
+  background-color: grey;
+  height: 400px;
+  width: 33%;
+}
+.grey{
+  background-color: #aeaeae;
+  height: 400px;
+  width: 33%;
+}
+.lowgrey{
+  background-color: #aca497;
+  height: 400px;
+  width: 33%;
+}
+div{
+  float: left;
+}
+#header{
+   height:25px;
+   width:100%;
+   background-color:black;
+}

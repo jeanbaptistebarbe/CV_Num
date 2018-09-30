@@ -153,6 +153,8 @@ body {
   background-image:url(https://ih1.redbubble.net/image.551779819.1612/flat,1000x1000,075,f.u1.jpg);
   background-attachment:fixed;
   font-family:"Monospace","Optima","sans-serif";
+  margin-right:2em;
+  margin-left: 2em;
 }
 
 .nounderline {

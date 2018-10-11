@@ -1,9 +1,8 @@
 .tete {
-  border-top: 7px solid black;
-  border-bottom: 7px solid black;
-  border-left: 7px solid black;
-  border-right: 7px solid black;
-  border-radius: 50px;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
 }
 .black{
   background-color: #3c3c3c;

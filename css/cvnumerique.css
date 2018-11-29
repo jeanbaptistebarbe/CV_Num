@@ -1,10 +1,3 @@
-.tete {
-  border-top: 7px solid black;
-  border-bottom: 7px solid black;
-  border-left: 7px solid black;
-  border-right: 7px solid black;
-  border-radius: 50px;
-}
 .black{
   background-color: #3c3c3c;
   border-top: 15px solid black;
@@ -141,6 +134,12 @@ hr{
 .PackOffice .skillbar-bar {
   background: #525252;
 }
+.Wordpress .skillbar-title {
+  background: #ce3333;
+}
+.Wordpress .skillbar-bar {
+  background: #ff0000;
+}
 .server .skillbar-title {
   background: #5e2750;
 }
@@ -167,4 +166,9 @@ body {
   text-decoration-color: white;
   display: inline-block;
   font-size: 16px;
+}
+
+.center {
+  position: absolute;
+  text-align: center;
 }
